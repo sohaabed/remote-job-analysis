@@ -1,0 +1,118 @@
+id,source,market_field,field,is_it_job,seniority,location,posted_date,salary_min,salary_max,salary_mid,salary_available
+remoteok_1137465,remoteok,IT & Software,Security,True,Mid,Unknown,2026-10-05,,,,False
+remoteok_1137463,remoteok,Sales,Other,False,Senior+,Unknown,2026-10-04,,,,False
+remoteok_1137461,remoteok,Operations & Business,Other,False,Senior+,Unknown,2026-10-03,170000.0,350000.0,260000.0,True
+remoteok_1137460,remoteok,Other,Other,False,Junior,Unknown,2026-10-02,60000.0,80000.0,70000.0,True
+remoteok_1137451,remoteok,Sales,Other,False,Mid,Unknown,2026-09-30,10000.0,50000.0,30000.0,True
+remoteok_1137439,remoteok,Other,Other,False,Mid,Unknown,2026-09-30,10000.0,50000.0,30000.0,True
+remoteok_1137434,remoteok,IT & Software,IT Support / SysAdmin,True,Senior+,"SIHO - Columbus, IN",2026-09-26,,,,False
+remoteok_1137431,remoteok,Other,Other,False,Mid,Unknown,2026-09-24,,,,False
+remoteok_1137429,remoteok,Other,Other,False,Mid,Unknown,2026-09-24,,,,False
+remoteok_1137428,remoteok,Other,Other,False,Mid,Unknown,2026-09-23,70000.0,80000.0,75000.0,True
+remoteok_1137427,remoteok,IT & Software,Software Engineering (General),True,Mid,Unknown,2026-09-23,,,,False
+remoteok_1137421,remoteok,IT & Software,AI / Machine Learning,True,Senior+,Germany,2026-09-23,,,,False
+remoteok_1137420,remoteok,IT & Software,Frontend,True,Mid,Singapore,2026-09-23,,,,False
+remoteok_1137418,remoteok,Operations & Business,Other,False,Junior,Unknown,2026-09-22,60000.0,80000.0,70000.0,True
+remoteok_1137417,remoteok,IT & Software,Data,True,Mid,Unknown,2026-09-22,,,,False
+remoteok_1137415,remoteok,Other,Other,False,Mid,Unknown,2026-09-22,,,,False
+remoteok_1137414,remoteok,IT & Software,AI / Machine Learning,True,Senior+,Melbourne,2026-09-22,,,,False
+remoteok_1137412,remoteok,IT & Software,Software Engineering (General),True,Mid,Unknown,2026-09-21,55000.0,80000.0,67500.0,True
+remoteok_1137411,remoteok,IT & Software,Backend,True,Senior+,Unknown,2026-09-20,,,,False
+remoteok_1137410,remoteok,IT & Software,Frontend,True,Mid,Ireland,2026-09-20,,,,False
+remoteok_1137408,remoteok,IT & Software,Software Engineering (General),True,Mid,Cincinnati,2026-09-19,,,,False
+remoteok_1137407,remoteok,IT & Software,Software Engineering (General),True,Mid,Redwood City,2026-09-19,300000.0,340000.0,320000.0,True
+remoteok_1137406,remoteok,Customer Support,Other,False,Senior+,"Mexico City, Mexico - Remote",2026-09-19,,,,False
+remoteok_1137405,remoteok,IT & Software,Software Engineering (General),True,Senior+,Unknown,2026-09-18,80000.0,250000.0,165000.0,True
+remoteok_1137400,remoteok,IT & Software,DevOps / Cloud,True,Mid,Unknown,2026-09-16,,,,False
+remoteok_1137399,remoteok,IT & Software,AI / Machine Learning,True,Mid,Unknown,2026-09-16,150000.0,250000.0,200000.0,True
+remoteok_1137398,remoteok,IT & Software,AI / Machine Learning,True,Mid,Unknown,2026-09-16,30000.0,40000.0,35000.0,True
+remoteok_1137396,remoteok,Product & Project Management,Other,False,Senior+,Unknown,2026-09-16,,,,False
+remoteok_1137394,remoteok,IT & Software,Software Engineering (General),True,Senior+,Remote,2026-09-15,,,,False
+remoteok_1137391,remoteok,IT & Software,Software Engineering (General),True,Junior,Unknown,2026-09-14,,,,False
+remoteok_1137388,remoteok,IT & Software,AI / Machine Learning,True,Senior+,Seoul,2026-09-12,,,,False
+remoteok_1137387,remoteok,IT & Software,Software Engineering (General),True,Mid,Unknown,2026-09-12,,,,False
+remoteok_1137386,remoteok,HR & Recruiting,Other,False,Mid,Unknown,2026-09-12,,,,False
+remoteok_1137381,remoteok,Marketing,Other,False,Mid,Unknown,2026-09-11,,,,False
+remoteok_1137379,remoteok,Operations & Business,Other,False,Senior+,United States,2026-09-11,,,,False
+remoteok_1137378,remoteok,HR & Recruiting,Other,False,Senior+,Unknown,2026-09-10,70000.0,80000.0,75000.0,True
+remoteok_1137375,remoteok,Other,Other,False,Mid,Remote,2026-09-10,,,,False
+remoteok_1137373,remoteok,Sales,Other,False,Senior+,"مسقط, مسقط مسقط عمان",2026-09-08,,,,False
+remoteok_1137374,remoteok,Other,Other,False,Mid,Greater Newcastle Area,2026-09-08,,,,False
+remoteok_1137224,remoteok,IT & Software,AI / Machine Learning,True,Mid,Unknown,2026-08-30,,,,False
+remoteok_1137162,remoteok,IT & Software,Software Engineering (General),True,Senior+,Unknown,2026-08-27,,,,False
+remoteok_1137156,remoteok,Design,Other,False,Senior+,"Vancouver, BC, Canada",2026-08-27,,,,False
+remoteok_1137155,remoteok,IT & Software,DevOps / Cloud,True,Senior+,Unknown,2026-08-27,,,,False
+remoteok_1137194,remoteok,IT & Software,IT Support / SysAdmin,True,Mid,Black Bess,2026-08-25,,,,False
+remoteok_1137114,remoteok,IT & Software,AI / Machine Learning,True,Senior+,Unknown,2026-08-25,,,,False
+remoteok_1137072,remoteok,IT & Software,IT Support / SysAdmin,True,Senior+,Unknown,2026-08-22,,,,False
+remoteok_1137062,remoteok,IT & Software,Full Stack,True,Mid,Unknown,2026-08-22,,,,False
+remoteok_1136987,remoteok,IT & Software,Software Engineering (General),True,Mid,Remote,2026-08-20,,,,False
+remoteok_1136950,remoteok,Marketing,Other,False,Mid,Remote - US,2026-08-18,,,,False
+remoteok_1136949,remoteok,IT & Software,Software Engineering (General),True,Senior+,Unknown,2026-08-18,,,,False
+remoteok_1136948,remoteok,Other,Other,False,Mid,United States,2026-08-18,,,,False
+remoteok_1136937,remoteok,Other,Other,False,Senior+,Boston,2026-08-18,150000.0,200000.0,175000.0,True
+remoteok_1136861,remoteok,Finance & Legal,Other,False,Mid,LSNYC Central Office,2026-08-17,,,,False
+remoteok_1136844,remoteok,Other,Other,False,Junior,South Korea,2026-08-17,,,,False
+remoteok_1136841,remoteok,Design,Other,False,Senior+,India,2026-08-17,,,,False
+remoteok_1136798,remoteok,IT & Software,Software Engineering (General),True,Senior+,Boston,2026-08-16,,,,False
+remoteok_1136797,remoteok,Sales,Other,False,Mid,Select USA Remote Locations,2026-08-16,,,,False
+remoteok_1136796,remoteok,IT & Software,Software Engineering (General),True,Senior+,Redwood City,2026-08-16,150000.0,185000.0,167500.0,True
+remoteok_1136795,remoteok,IT & Software,Software Engineering (General),True,Senior+,New York City,2026-08-16,190000.0,220000.0,205000.0,True
+remoteok_1136701,remoteok,IT & Software,QA / Testing,True,Junior,Remote,2026-08-15,,,,False
+remoteok_1136687,remoteok,Marketing,Other,False,Mid,Unknown,2026-08-14,,,,False
+remoteok_1136625,remoteok,Other,Other,False,Mid,Alice Springs,2026-08-13,,,,False
+remoteok_1136857,remoteok,IT & Software,Software Engineering (General),True,Mid,Dehradun,2026-08-12,,,,False
+remoteok_1136878,remoteok,IT & Software,Software Engineering (General),True,Mid,"Bishkek, Bishkek City, Kyrgyzstan",2026-08-12,,,,False
+remoteok_1136570,remoteok,IT & Software,Mobile,True,Mid,Remote,2026-08-12,,,,False
+remoteok_1136569,remoteok,IT & Software,Backend,True,Mid,Remote,2026-08-12,,,,False
+remoteok_1136568,remoteok,Operations & Business,Other,False,Mid,LATAM,2026-08-12,,,,False
+remoteok_1136592,remoteok,IT & Software,IT Support / SysAdmin,True,Mid,Port of Spain,2026-08-12,,,,False
+remoteok_1136566,remoteok,Customer Support,Other,False,Mid,Unknown,2026-08-12,,,,False
+remoteok_1136447,remoteok,IT & Software,Software Engineering (General),True,Senior+,Remote - US,2026-08-12,,,,False
+remoteok_1136379,remoteok,Sales,Other,False,Mid,Remote UK,2026-08-11,,,,False
+remoteok_1136188,remoteok,IT & Software,Backend,True,Mid,Los Angeles,2026-08-05,,,,False
+remoteok_1136770,remoteok,IT & Software,IT Support / SysAdmin,True,Mid,Budapest,2026-08-05,,,,False
+remoteok_1136192,remoteok,Design,Other,False,Mid,Toronto,2026-08-05,,,,False
+remoteok_1136213,remoteok,Design,Other,False,Mid,Texas,2026-08-05,,,,False
+remoteok_1136210,remoteok,IT & Software,Security,True,Senior+,"New York, United States",2026-08-05,,,,False
+remoteok_1136778,remoteok,IT & Software,Software Engineering (General),True,Mid,Uluberia-II,2026-08-04,,,,False
+remoteok_1136094,remoteok,Marketing,Other,False,Mid,"Austin, Texas, United States",2026-08-04,,,,False
+remoteok_1136222,remoteok,IT & Software,Data,True,Mid,"Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",2026-08-04,,,,False
+remoteok_1136096,remoteok,IT & Software,Software Engineering (General),True,Senior+,"Austin, Texas, United States",2026-08-04,,,,False
+remoteok_1136217,remoteok,IT & Software,Data,True,Mid,"دبي, دبي دبي الإمارات العربية المتحدة",2026-08-04,,,,False
+remoteok_1136221,remoteok,Sales,Other,False,Mid,"Islamabad, Islāmābād, Pakistan",2026-08-04,,,,False
+remoteok_1136216,remoteok,Other,Other,False,Mid,"Chennai, Tamil Nadu, India",2026-08-04,,,,False
+remoteok_1137209,remoteok,IT & Software,Software Engineering (General),True,Mid,Agra,2026-08-04,,,,False
+remoteok_1136086,remoteok,Other,Other,False,Mid,"London, England, United Kingdom",2026-08-03,,,,False
+remoteok_1136054,remoteok,Operations & Business,Other,False,Senior+,"Dallas, Texas, United States",2026-08-03,,,,False
+remoteok_1136370,remoteok,Other,Other,False,Mid,Bury St Edmunds,2026-08-03,,,,False
+remoteok_1135903,remoteok,IT & Software,Software Engineering (General),True,Junior,"الرياض, الرياض الرياض السعودية",2026-08-02,,,,False
+remoteok_1135789,remoteok,IT & Software,Software Engineering (General),True,Mid,Unknown,2026-08-01,,,,False
+remoteok_1135788,remoteok,Customer Support,Other,False,Mid,Unknown,2026-08-01,,,,False
+remoteok_1136066,remoteok,IT & Software,Frontend,True,Mid,Greater London,2026-08-01,,,,False
+remoteok_1135908,remoteok,Other,Other,False,Senior+,"Sunshine Coast, Queensland, Australia",2026-08-01,,,,False
+remoteok_1135901,remoteok,Other,Other,False,Senior+,"California, United States",2026-07-31,,,,False
+remoteok_1135783,remoteok,IT & Software,IT Support / SysAdmin,True,Mid,"San Diego, California, United States",2026-07-31,,,,False
+remoteok_1135765,remoteok,IT & Software,Software Engineering (General),True,Mid,"Vilnius, Vilniaus, Lithuania",2026-07-31,,,,False
+remoteok_1135997,remoteok,IT & Software,Software Engineering (General),True,Mid,Warana,2026-07-31,,,,False
+remoteok_1135745,remoteok,Other,Other,False,Senior+,Mississauga,2026-07-31,,,,False
+remoteok_1135681,remoteok,IT & Software,Software Engineering (General),True,Mid,Unknown,2026-07-30,,,,False
+remoteok_1135697,remoteok,IT & Software,Software Engineering (General),True,Mid,Greater Orlando,2026-07-30,,,,False
+remotive_2091149,remotive,IT & Software,AI / Machine Learning,True,Mid,"USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",2026-10-05,,,,False
+remotive_1749306,remotive,Writing & Content,Other,False,Mid,Worldwide,2026-10-02,20000.0,35000.0,27500.0,True
+remotive_2091133,remotive,IT & Software,Full Stack,True,Senior+,"Europe, USA, Canada, APAC",2026-10-02,,,,False
+remotive_2091132,remotive,IT & Software,Backend,True,Senior+,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",2026-09-30,,,,False
+remotive_2091144,remotive,Writing & Content,Other,False,Mid,USA,2026-09-21,,,,False
+remotive_2091141,remotive,IT & Software,Frontend,True,Mid,"USA, Canada, Argentina, Mexico, Peru",2026-09-18,90000.0,105000.0,97500.0,True
+remotive_2091140,remotive,IT & Software,Software Engineering (General),True,Senior+,Worldwide,2026-09-18,80000.0,150000.0,115000.0,True
+remotive_2091139,remotive,Customer Support,Other,False,Mid,Europe,2026-09-18,,,,False
+remotive_2091131,remotive,IT & Software,AI / Machine Learning,True,Senior+,"Northern America, LATAM, Europe, APAC",2026-09-18,,,,False
+remotive_2091130,remotive,IT & Software,Full Stack,True,Senior+,"Northern America, LATAM, Europe, APAC",2026-09-17,,,,False
+remotive_2091129,remotive,IT & Software,Data,True,Senior+,"Northern America, LATAM, Europe, APAC",2026-09-16,,,,False
+remotive_1919265,remotive,IT & Software,Software Engineering (General),True,Senior+,"Americas, Europe, Israel",2026-09-16,,,,False
+remotive_1919266,remotive,IT & Software,AI / Machine Learning,True,Senior+,"Americas, Europe, Israel",2026-09-16,,,,False
+remotive_2069746,remotive,IT & Software,Full Stack,True,Senior+,"USA, Canada, USA timezones",2026-09-14,170000.0,200000.0,185000.0,True
+remotive_1680495,remotive,Marketing,Other,False,Mid,Worldwide,2026-09-11,52000.0,353000.0,202500.0,True
+remotive_2091126,remotive,IT & Software,AI / Machine Learning,True,Mid,"France, Japan, Turkey, Vietnam, Mexico, Norway",2026-09-11,10000.0,20000.0,15000.0,True
+remotive_2086540,remotive,Sales,Other,False,Mid,Worldwide,2026-09-08,25000.0,35000.0,30000.0,True
+remotive_2091045,remotive,IT & Software,IT Support / SysAdmin,True,Mid,Worldwide,2026-09-07,,,,False

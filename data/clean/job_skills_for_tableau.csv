@@ -1,0 +1,267 @@
+id,skill,skill_group
+remoteok_1137394,Python,Languages
+remoteok_1137062,Python,Languages
+remoteok_1136795,Python,Languages
+remoteok_1136222,Python,Languages
+remotive_2091149,Python,Languages
+remotive_2091133,Python,Languages
+remotive_2091132,Python,Languages
+remotive_2091141,Python,Languages
+remotive_2091131,Python,Languages
+remotive_2091130,Python,Languages
+remotive_2091129,Python,Languages
+remoteok_1137420,JavaScript,Languages
+remoteok_1137410,JavaScript,Languages
+remoteok_1137405,JavaScript,Languages
+remoteok_1137399,JavaScript,Languages
+remoteok_1137394,JavaScript,Languages
+remoteok_1136778,JavaScript,Languages
+remotive_2091149,JavaScript,Languages
+remotive_2091133,JavaScript,Languages
+remotive_2091132,JavaScript,Languages
+remotive_2091140,JavaScript,Languages
+remotive_2091131,JavaScript,Languages
+remotive_2091130,JavaScript,Languages
+remotive_2091129,JavaScript,Languages
+remotive_2069746,JavaScript,Languages
+remoteok_1137420,TypeScript,Languages
+remoteok_1137411,TypeScript,Languages
+remoteok_1137410,TypeScript,Languages
+remoteok_1137405,TypeScript,Languages
+remoteok_1137399,TypeScript,Languages
+remoteok_1136210,TypeScript,Languages
+remotive_2091149,TypeScript,Languages
+remotive_2091133,TypeScript,Languages
+remotive_2091132,TypeScript,Languages
+remotive_2091141,TypeScript,Languages
+remotive_2091140,TypeScript,Languages
+remotive_2091131,TypeScript,Languages
+remotive_2091130,TypeScript,Languages
+remotive_2091129,TypeScript,Languages
+remoteok_1136188,Java,Languages
+remoteok_1135997,Java,Languages
+remotive_2091149,Java,Languages
+remotive_2091133,Java,Languages
+remotive_2091132,Java,Languages
+remotive_2091131,Java,Languages
+remotive_2091130,Java,Languages
+remotive_2091129,Java,Languages
+remoteok_1137411,C# / .NET,Languages
+remotive_2091149,C# / .NET,Languages
+remotive_2091133,C# / .NET,Languages
+remotive_2091132,C# / .NET,Languages
+remotive_2091131,C# / .NET,Languages
+remotive_2091130,C# / .NET,Languages
+remotive_2091129,C# / .NET,Languages
+remotive_2091149,C++,Languages
+remotive_2091133,C++,Languages
+remotive_2091132,C++,Languages
+remotive_2091131,C++,Languages
+remotive_2091130,C++,Languages
+remotive_2091129,C++,Languages
+remoteok_1137465,Go,Languages
+remoteok_1137427,Go,Languages
+remoteok_1137417,Go,Languages
+remoteok_1137414,Go,Languages
+remoteok_1137408,Go,Languages
+remoteok_1137400,Go,Languages
+remoteok_1137399,Go,Languages
+remoteok_1137387,Go,Languages
+remoteok_1137224,Go,Languages
+remoteok_1137162,Go,Languages
+remoteok_1137114,Go,Languages
+remoteok_1137062,Go,Languages
+remoteok_1136987,Go,Languages
+remoteok_1136949,Go,Languages
+remoteok_1136796,Go,Languages
+remoteok_1136857,Go,Languages
+remoteok_1136569,Go,Languages
+remoteok_1136188,Go,Languages
+remoteok_1136770,Go,Languages
+remoteok_1136210,Go,Languages
+remoteok_1136222,Go,Languages
+remoteok_1135765,Go,Languages
+remoteok_1135997,Go,Languages
+remoteok_1135681,Go,Languages
+remotive_2091133,Go,Languages
+remotive_2091132,Go,Languages
+remotive_2091131,Go,Languages
+remotive_2091130,Go,Languages
+remotive_2091129,Go,Languages
+remotive_2091149,Rust,Languages
+remotive_2091133,Rust,Languages
+remotive_2091132,Rust,Languages
+remotive_2091131,Rust,Languages
+remotive_2091130,Rust,Languages
+remotive_2091129,Rust,Languages
+remotive_2091149,PHP,Languages
+remotive_2091133,PHP,Languages
+remotive_2091132,PHP,Languages
+remotive_2091131,PHP,Languages
+remotive_2091130,PHP,Languages
+remotive_2091129,PHP,Languages
+remoteok_1137421,Ruby,Languages
+remoteok_1137388,Ruby,Languages
+remoteok_1136210,Ruby,Languages
+remotive_2091149,Ruby,Languages
+remotive_2091133,Ruby,Languages
+remotive_2091132,Ruby,Languages
+remotive_2091131,Ruby,Languages
+remotive_2091130,Ruby,Languages
+remotive_2091129,Ruby,Languages
+remotive_2069746,Ruby,Languages
+remotive_2091133,Kotlin / Swift,Languages
+remotive_2091132,Kotlin / Swift,Languages
+remotive_2091131,Kotlin / Swift,Languages
+remotive_2091130,Kotlin / Swift,Languages
+remotive_2091129,Kotlin / Swift,Languages
+remoteok_1137411,SQL,Languages
+remoteok_1137408,SQL,Languages
+remoteok_1137405,SQL,Languages
+remoteok_1137399,SQL,Languages
+remoteok_1137062,SQL,Languages
+remoteok_1136210,SQL,Languages
+remoteok_1136222,SQL,Languages
+remotive_2091149,SQL,Languages
+remotive_2091140,SQL,Languages
+remotive_2069746,SQL,Languages
+remoteok_1137420,React,Frameworks
+remoteok_1137410,React,Frameworks
+remoteok_1136210,React,Frameworks
+remotive_2091149,React,Frameworks
+remotive_2091133,React,Frameworks
+remotive_2091132,React,Frameworks
+remotive_2091141,React,Frameworks
+remotive_2091131,React,Frameworks
+remotive_2091130,React,Frameworks
+remotive_2091129,React,Frameworks
+remotive_2069746,React,Frameworks
+remoteok_1137411,Angular,Frameworks
+remoteok_1137062,Angular,Frameworks
+remotive_2091133,Angular,Frameworks
+remotive_2091132,Angular,Frameworks
+remotive_2091131,Angular,Frameworks
+remotive_2091130,Angular,Frameworks
+remotive_2091129,Angular,Frameworks
+remotive_2091133,Vue,Frameworks
+remotive_2091132,Vue,Frameworks
+remotive_2091131,Vue,Frameworks
+remotive_2091130,Vue,Frameworks
+remotive_2091129,Vue,Frameworks
+remoteok_1137420,Node.js,Frameworks
+remoteok_1137410,Node.js,Frameworks
+remoteok_1137405,Node.js,Frameworks
+remotive_2091149,Node.js,Frameworks
+remotive_2091133,Node.js,Frameworks
+remotive_2091132,Node.js,Frameworks
+remotive_2091140,Node.js,Frameworks
+remotive_2091131,Node.js,Frameworks
+remotive_2091130,Node.js,Frameworks
+remotive_2091129,Node.js,Frameworks
+remotive_2091141,Django / Flask,Frameworks
+remoteok_1137411,AWS,Cloud & DevOps
+remoteok_1136796,AWS,Cloud & DevOps
+remotive_2091133,AWS,Cloud & DevOps
+remoteok_1137411,Azure,Cloud & DevOps
+remoteok_1136796,Azure,Cloud & DevOps
+remotive_2091133,Azure,Cloud & DevOps
+remotive_2091045,Azure,Cloud & DevOps
+remoteok_1137399,GCP,Cloud & DevOps
+remoteok_1137062,GCP,Cloud & DevOps
+remoteok_1136796,GCP,Cloud & DevOps
+remoteok_1136210,GCP,Cloud & DevOps
+remotive_2091133,GCP,Cloud & DevOps
+remoteok_1136188,Docker,Cloud & DevOps
+remotive_2091141,Docker,Cloud & DevOps
+remotive_2069746,Docker,Cloud & DevOps
+remoteok_1137400,Kubernetes,Cloud & DevOps
+remoteok_1137387,Kubernetes,Cloud & DevOps
+remoteok_1136796,Kubernetes,Cloud & DevOps
+remoteok_1136447,Kubernetes,Cloud & DevOps
+remoteok_1136188,Kubernetes,Cloud & DevOps
+remotive_2091132,Kubernetes,Cloud & DevOps
+remotive_2069746,Kubernetes,Cloud & DevOps
+remoteok_1136796,Terraform / IaC,Cloud & DevOps
+remoteok_1136447,Terraform / IaC,Cloud & DevOps
+remoteok_1137411,CI/CD,Cloud & DevOps
+remoteok_1136796,CI/CD,Cloud & DevOps
+remoteok_1136447,CI/CD,Cloud & DevOps
+remoteok_1135997,Linux,Cloud & DevOps
+remoteok_1137411,Git,Cloud & DevOps
+remoteok_1137062,Git,Cloud & DevOps
+remotive_2091141,Git,Cloud & DevOps
+remotive_2069746,Git,Cloud & DevOps
+remoteok_1137062,MongoDB / NoSQL,Data & Databases
+remotive_2091149,MongoDB / NoSQL,Data & Databases
+remoteok_1137405,Redis,Data & Databases
+remotive_2091140,Redis,Data & Databases
+remotive_2069746,Redis,Data & Databases
+remoteok_1136795,Spark / Hadoop,Data & Databases
+remotive_2091129,Spark / Hadoop,Data & Databases
+remotive_2069746,Spark / Hadoop,Data & Databases
+remoteok_1136795,Snowflake / BigQuery,Data & Databases
+remoteok_1137194,Power BI,Data & Databases
+remoteok_1136222,Power BI,Data & Databases
+remoteok_1136222,Tableau,Data & Databases
+remoteok_1137434,Excel,Data & Databases
+remoteok_1137391,Excel,Data & Databases
+remoteok_1137194,Excel,Data & Databases
+remoteok_1136878,Excel,Data & Databases
+remoteok_1136570,Excel,Data & Databases
+remoteok_1136569,Excel,Data & Databases
+remoteok_1136770,Excel,Data & Databases
+remoteok_1136222,Excel,Data & Databases
+remoteok_1135903,Excel,Data & Databases
+remoteok_1135997,Excel,Data & Databases
+remoteok_1137421,Machine Learning,AI
+remoteok_1137388,Machine Learning,AI
+remoteok_1137387,Machine Learning,AI
+remoteok_1136188,Machine Learning,AI
+remotive_2091149,Machine Learning,AI
+remotive_2091133,Machine Learning,AI
+remotive_2091132,Machine Learning,AI
+remotive_2091141,Machine Learning,AI
+remotive_2091131,Machine Learning,AI
+remotive_2091130,Machine Learning,AI
+remotive_2091129,Machine Learning,AI
+remotive_1919266,Machine Learning,AI
+remotive_2069746,Machine Learning,AI
+remotive_2091126,Machine Learning,AI
+remoteok_1137421,LLM / GenAI,AI
+remoteok_1137399,LLM / GenAI,AI
+remoteok_1137388,LLM / GenAI,AI
+remotive_2091133,LLM / GenAI,AI
+remotive_2091132,LLM / GenAI,AI
+remotive_2091141,LLM / GenAI,AI
+remotive_2091131,LLM / GenAI,AI
+remotive_2091130,LLM / GenAI,AI
+remotive_2091129,LLM / GenAI,AI
+remotive_1919266,LLM / GenAI,AI
+remotive_2069746,LLM / GenAI,AI
+remoteok_1137421,REST / APIs,Practices
+remoteok_1137420,REST / APIs,Practices
+remoteok_1137411,REST / APIs,Practices
+remoteok_1137410,REST / APIs,Practices
+remoteok_1137405,REST / APIs,Practices
+remoteok_1137399,REST / APIs,Practices
+remoteok_1137394,REST / APIs,Practices
+remoteok_1137388,REST / APIs,Practices
+remoteok_1137224,REST / APIs,Practices
+remoteok_1137062,REST / APIs,Practices
+remoteok_1136796,REST / APIs,Practices
+remoteok_1136778,REST / APIs,Practices
+remoteok_1136096,REST / APIs,Practices
+remotive_2091149,REST / APIs,Practices
+remotive_2091141,REST / APIs,Practices
+remotive_2091140,REST / APIs,Practices
+remotive_1919266,REST / APIs,Practices
+remotive_2069746,REST / APIs,Practices
+remotive_2069746,Microservices,Practices
+remoteok_1137408,Testing,Practices
+remoteok_1137405,Testing,Practices
+remotive_2091149,Testing,Practices
+remotive_2091140,Testing,Practices
+remoteok_1137407,Security practices,Practices
+remoteok_1137394,Security practices,Practices
+remoteok_1136447,Security practices,Practices
+remotive_2091149,Security practices,Practices
