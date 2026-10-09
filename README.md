@@ -126,4 +126,4 @@ Web/API data collection · data cleaning and text processing with Pandas and reg
 
 ## Author
 
-**Soha** · [GitHub](https://github.com/sohaabed) · [LinkedIn](https://www.linkedin.com/in/your-profile)  <!-- replace with your real profile -->
+**Soha** · [GitHub](https://github.com/sohaabed) · [LinkedIn](linkedin.com/in/soha-msallam-44564b187)  <!-- replace with your real profile -->
