@@ -2,7 +2,7 @@
 
 > An end-to-end data project: collecting remote job postings from public APIs, cleaning them with Python and Pandas, analysing them with Python and SQL, and presenting the results in an interactive Tableau dashboard.
 
-**Dashboard:** [View on Tableau Public](PUT-YOUR-TABLEAU-LINK-HERE)  <!-- replace after publishing -->
+**Dashboard:** [View on Tableau Public](https://public.tableau.com/views/RemoteJopMarketDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  <!-- replace after publishing -->
 
 ![Dashboard preview](images/dashboard.png)
 
